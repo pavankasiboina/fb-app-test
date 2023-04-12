@@ -32,7 +32,7 @@ public class App
         Thread.sleep(3000);
         
         driver.quit();
-        System.out.println("Scripts Executed Successfully...");
+        System.out.println("Scripts Executed Successfully..");
         
         
     }
